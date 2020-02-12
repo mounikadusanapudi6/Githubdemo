@@ -36,6 +36,7 @@ public class LaunchGoogle {
 		}
 		Mouni.close();
 		Mouni.quit();
+		System.out.println("text");
 
 	}
 
