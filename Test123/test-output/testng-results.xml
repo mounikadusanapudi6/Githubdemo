@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23486" started-at="2020-02-11T07:17:14Z" finished-at="2020-02-11T07:17:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23486" started-at="2020-02-11T07:17:14Z" finished-at="2020-02-11T07:17:37Z">
+      <class name="Test123.Test123.Casestudyday1">
+        <test-method status="PASS" signature="reportconfig()[pri:0, instance:Test123.Test123.Casestudyday1@46d56d67]" name="reportconfig" is-config="true" duration-ms="203" started-at="2020-02-11T07:17:14Z" finished-at="2020-02-11T07:17:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportconfig -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:Test123.Test123.Casestudyday1@46d56d67]" name="testLogin" duration-ms="8787" started-at="2020-02-11T07:17:14Z" finished-at="2020-02-11T07:17:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Test123.Test123.Casestudyday1@46d56d67]" name="getResult" is-config="true" duration-ms="11" started-at="2020-02-11T07:17:23Z" finished-at="2020-02-11T07:17:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLogin status=SUCCESS method=Casestudyday1.testLogin()[pri:0, instance:Test123.Test123.Casestudyday1@46d56d67] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="testCart()[pri:0, instance:Test123.Test123.Casestudyday1@46d56d67]" name="testCart" duration-ms="2827" started-at="2020-02-11T07:17:23Z" finished-at="2020-02-11T07:17:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCart -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Test123.Test123.Casestudyday1@46d56d67]" name="getResult" is-config="true" duration-ms="4" started-at="2020-02-11T07:17:26Z" finished-at="2020-02-11T07:17:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCart status=SUCCESS method=Casestudyday1.testCart()[pri:0, instance:Test123.Test123.Casestudyday1@46d56d67] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="testPayment()[pri:0, instance:Test123.Test123.Casestudyday1@46d56d67]" name="testPayment" duration-ms="11255" started-at="2020-02-11T07:17:26Z" finished-at="2020-02-11T07:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPayment -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Test123.Test123.Casestudyday1@46d56d67]" name="getResult" is-config="true" duration-ms="1" started-at="2020-02-11T07:17:37Z" finished-at="2020-02-11T07:17:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPayment status=SUCCESS method=Casestudyday1.testPayment()[pri:0, instance:Test123.Test123.Casestudyday1@46d56d67] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test123.Test123.Casestudyday1@46d56d67]" name="tearDown" is-config="true" duration-ms="375" started-at="2020-02-11T07:17:37Z" finished-at="2020-02-11T07:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test123.Test123.Casestudyday1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

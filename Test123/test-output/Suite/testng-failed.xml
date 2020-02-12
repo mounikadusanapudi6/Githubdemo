@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="tester" value="mouni"/>
+  <parameter name="location" value="hdc2"/>
+  <test name="Test(failed)">
+    <parameter name="tester" value="mouni"/>
+    <parameter name="location" value="hdc2"/>
+    <classes>
+      <class name="Test123.Test123.hdc2PARAMETERSDemo">
+        <methods>
+          <include name="primeMembership"/>
+        </methods>
+      </class> <!-- Test123.Test123.hdc2PARAMETERSDemo -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

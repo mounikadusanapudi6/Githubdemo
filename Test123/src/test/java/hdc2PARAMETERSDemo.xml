@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Testing in IE browser">
+  <parameter name="tester" value="mouni"></parameter>
+   <parameter name="location" value="hdc2"></parameter>
+    <classes>
+      <class name="Test123.Test123.hdc2PARAMETERSDemo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
